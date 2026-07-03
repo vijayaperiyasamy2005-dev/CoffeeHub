@@ -76,7 +76,7 @@ header {
 .hero {
   height: 88vh;
   background: linear-gradient(rgba(30, 18, 10, 0.65), rgba(30, 18, 10, 0.65)),
-    url('./img.jpg') center/cover no-repeat;
+    url('./background pic.jpg') center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
